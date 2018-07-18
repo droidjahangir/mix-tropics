@@ -1,4 +1,7 @@
-
+# Markdown format
+ 
+ 
+ `
     Markdown formate
     what is it use for?
     1. Readme file(Github,etc)
@@ -21,9 +24,10 @@
     3. haroopad
     4. markdownPad2
     5. Typora
+    
+`
 
-
-<!-- Headings -->
+### Headings
 # Heading1
 ## Heading2
 ### Heading3
@@ -31,43 +35,43 @@
 ##### Heading5
 ###### Heading6
 
-<!-- Italics -->
+### Italic
 *This text* is italic
 
 _This text_ is italic
 
-<!-- Strong -->
+### Strong
 **This text** is strong
 
 __This text__ is strong
 
-<!-- Strikethrough -->
+### Strikethrough
 ~~This  text~~ is strikethrough
 
-<!-- Horizontal rule -->
+### Horizontal rule
 
 --- 
 
 or
 ___
 
-<!-- Escape character -->
+### Escape character
 \* show star \*
 
 
-<!-- Block quote -->
+### Block quote
 > this is block quote
 >
 > another line
 
-<!-- Links -->
+### Links
 
 [you tube](http://www.youtube.com)
 
 [Hover title](http://www.youtube.com
 "this title is hover over")
 
-<!--Unordered list-->
+### Unordered list
 
 * Item 1
 * Item 2
@@ -75,25 +79,24 @@ ___
     * Nested item 1
     * Nested item 2
 
-<!--Odered list-->
+# Odered list
 1. Item 1
 2. Item 2
 3. Item 3
 
-<!--Inline code block-->
+# Inline code block
 
 `<p>This is a paragraph</p>`
 
 <!--Images-->
 
-![Markdown](./images/jahangir.jpg)
+![Markdown](./images/jahangir.jpeg)
 
+### Git markdown
 
+### Code block
 
-<!--Github markdown-->
-
-<!--Code blocks-->
-
+#### Bash command
 ```bash
 
 rm -rf newDirectory
@@ -102,24 +105,25 @@ touch file.php file2.php one.txt two.txt
 
 ```
 
+#### Python script
 ```python
     def add(num1, num2):
         return num1+num2
 
 ```
 
-<!--Table-->
+### Table
 
 | Name          |  Email                    |
 | ------        |  --------                 |
 |jahangir       | jahangir.droid@gmail.com  |
 |Abdullah imran | abdullahimran@gmail.com   |
 
-<!--Task list-->
+### Task list
 
 * [x] Task 1
 * [ ] Task 2
-* [x] ] Task 3
+* [x] Task 3
 
 
 
