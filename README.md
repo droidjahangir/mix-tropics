@@ -1,7 +1,7 @@
 # Markdown format
  
  
- `
+ 
     Markdown formate
     what is it use for?
     1. Readme file(Github,etc)
@@ -25,7 +25,8 @@
     4. markdownPad2
     5. Typora
     
-`
+
+
 
 ### Headings
 # Heading1
@@ -79,24 +80,22 @@ ___
     * Nested item 1
     * Nested item 2
 
-# Odered list
+### Odered list
 1. Item 1
 2. Item 2
 3. Item 3
 
-# Inline code block
+### Inline code block
 
 `<p>This is a paragraph</p>`
 
-<!--Images-->
+### Images
 
 ![Markdown](./images/jahangir.jpeg)
 
-### Git markdown
-
 ### Code block
 
-#### Bash command
+##### Bash command
 ```bash
 
 rm -rf newDirectory
@@ -105,7 +104,7 @@ touch file.php file2.php one.txt two.txt
 
 ```
 
-#### Python script
+##### Python script
 ```python
     def add(num1, num2):
         return num1+num2
