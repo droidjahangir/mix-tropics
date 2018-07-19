@@ -91,7 +91,7 @@ ___
 
 ### Images
 
-![Markdown](./images/jahangir.jpeg)
+![Markdown](./images/1_jahangir.jpeg)
 
 ### Code block
 
