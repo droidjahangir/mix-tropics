@@ -56,8 +56,21 @@
 * [খান একাডেমী - Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
 
 # স্ট্যাটিস্টিক্স 
-* [খান একাডেমী - Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
 
+* [খান একাডেমী - Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
+* [statistecs - udacity](https://classroom.udacity.com/courses/st101)
+
+
+
+
+## distribution
+1. [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://medium.com/@srowen/common-probability-distributions-347e6b945ce4)
+
+2. [6 Common Probability Distributions every data science professional should know](https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/)
+
+## probability
+1. [Probability concepts explained: Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
+2. [Probability Distributions](https://onlinecourses.science.psu.edu/stat500/node/21/)
 
 # পাইথন :
 
@@ -70,5 +83,4 @@
 * [python - MIT](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
 * [Book - Automate the Boring Stuff with Python:](https://www.google.com/search?client=ubuntu&channel=fs&q=automate+the+boring+stuff+with+python&ie=utf-8&oe=utf-8)
-
 
