@@ -16,15 +16,13 @@
 * [git bitbucket](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 
 
-# লিনিয়ার রিগ্রেসন :
-* [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
-
 
 # আর্টিফিশিয়াল ইন্টেলিজেন্স
 
 * [‘আ’ তে আর্টিফিশিয়াল ইন্টেলিজেন্স! ](https://medium.com/@reyadrahman/%E0%A6%86-%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AB%E0%A6%BF%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B2-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8-1d6c092da1c6)
 
 # ডাটা সাইন্স 
+* [data science, machine learning, SQL, Statistics, Calculus, Linear algebra etc](https://www.dataquest.io/path/data-scientist)
 * [Overview of Exploratory Data Analysis With Python](https://hackernoon.com/overview-of-exploratory-data-analysis-with-python-6213e105b00b)
 
 * [Top 8 resources for learning data analysis with pandas](https://www.dataschool.io/best-python-pandas-resources/)
@@ -39,12 +37,12 @@
 * [ Andrew Ng - Machine learning](https://www.coursera.org/learn/machine-learning)
 * [সম্ভাবনাময় মেশিন লার্নিং শুরুর কিছু পথ-নির্দেশিকা](https://medium.com/@harunshimanto/%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%9F-%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A8-%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%82-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B0-%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81-%E0%A6%AA%E0%A6%A5-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A6%BE-1532f57cee49)
 
-### লজিস্টিক রিগ্রেসন :
-* [Logistic Regression — Detailed Overview](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc) 
-
 ### লিনিয়ার রিগ্রেসন :
 * [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
 
+
+### লজিস্টিক রিগ্রেসন :
+* [Logistic Regression — Detailed Overview](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc) 
 
 # লিনিয়ার এলজেব্রা :
 * [Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -67,13 +65,28 @@
 
 * [19 MOOCs on Mathematics & Statistics for Data Science & Machine Learning](https://www.analyticsvidhya.com/blog/2017/01/19-mooc-mathematics-statistics-datascience-machine-learning/)
 
+* [openIntro](https://www.openintro.org/stat/index.php) 
 
-### distribution
+* [datacamp](https://www.datacamp.com/courses/topic:probablity_and_statistics)
+
+* [San jose state university](https://www.udacity.com/course/statistics--st095)
+
+## Article : 
+
+* [Quick Intro to Statistics — Power Your Stories with Data](https://hackernoon.com/quick-intro-to-statistics-power-your-stories-with-data-a3a35785692b)
+
+#### Descriptive statistics:
+
+1. [Intro to Descriptive Statistics-Niklas Donges](https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9)
+2. [Understanding Descriptive Statistics-Sarang Narkhede](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291)
+
+#### distribution
+
 1. [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://medium.com/@srowen/common-probability-distributions-347e6b945ce4)
 
 2. [6 Common Probability Distributions every data science professional should know](https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/)
 
-### probability
+#### probability
 1. [Probability concepts explained: Maximum likelihood estimation](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
 2. [Probability Distributions](https://onlinecourses.science.psu.edu/stat500/node/21/)
 
@@ -88,4 +101,26 @@
 * [python - MIT](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
 * [Book - Automate the Boring Stuff with Python:](https://www.google.com/search?client=ubuntu&channel=fs&q=automate+the+boring+stuff+with+python&ie=utf-8&oe=utf-8)
+
+# Python problem solving
+
+* [Hackerrank](https://www.hackerrank.com/domains/python)
+* [Github - 100+ Python challenging programming exercises](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt)
+* [Python Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/)
+
+# নেটওয়ার্কিং 
+
+* [CSLCBT Bangla - youtube](https://www.youtube.com/user/CSLCBT/playlists)
+*  [দ্বিমিক কম্পিউটিং - Dimik Computing networking - youtube](https://www.youtube.com/watch?v=OfGuohbxDNo&list=PLjq9G-RJFRrYwU2xgRG4KWLzEoZYLxb6L)
+
+# ডাটাবেজ 
+
+* [Jompesh Education - youtube](https://www.youtube.com/watch?v=aPNy1eusjFg&list=PLgzGtvkMZr9l4HeUwpGH6MWnCH3PGn-ic)
+* [Anisul Islam - MySQL Database Bangla Tutorials - youtube](https://www.youtube.com/watch?v=1IQbPxFkoiQ&list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD)
+
+## PostgreSQL
+* [PostgreSQL bangla tutorial - youtube](https://www.youtube.com/watch?v=Z87TYm807Is&index=2&list=PLbC4KRSNcMnp3nLrE7WcFPI_tLJ0qH3aq)
+
+
+
 
